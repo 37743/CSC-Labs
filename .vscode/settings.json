@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "xstring": "c",
+        "stdio.h": "c",
+        "cs50.h": "c"
+    }
+}
